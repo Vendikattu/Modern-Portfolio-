@@ -24,10 +24,6 @@
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
-    },
-    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
@@ -45,7 +41,7 @@
     },
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "https://img.icons8.com/co lor/48/000000/python--v1.png"
     },
     {
         "name": "MongoDB",
@@ -56,8 +52,8 @@
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+        "name": "Machine Learning",
+        "icon": "https://iabac.org/blog/machine-learning-applications-and-examples"
     },
     {
         "name": "Git VCS",
@@ -68,7 +64,19 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+        "name": "EDA",
+        "icon": "https://cdn-images-1.medium.com/v2/resize:fit:801/0*IL3sQM3WwdvHzYgz"
+    },
+    {
+        "name": "Big Data",
+        "icon": "https://community.nasscom.in/sites/default/files/styles/960_x_600/public/media/images/big-data.png?itok=gEKZyvEq"
+    },
+    {
+        "name": "NLP",
+        "icon": "https://www.blumeglobal.com/learning/natural-language-processing/"
+    },
+    {
+        "name": "Deep Learning",
+        "icon": "https://imageio.forbes.com/specials-images/imageserve/1160013652/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    }               
 ]
