@@ -78,5 +78,41 @@
   {
     "name": "Deep Learning",
     "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-deep-learning-artificial-intelligence-flaticons-flat-flat-icons.png"
+  },
+  {
+    "name": "Postman",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
+  },
+  {
+    "name": "VS Code",
+    "icon": "https://img.icons8.com/color/96/visual-studio-code-2019.png"
+  },
+  {
+    "name": "Jupyter Notebook",
+    "icon": "https://img.icons8.com/color/96/jupyter.png"
+  },
+  {
+    "name": "Google Colab",
+    "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-google-colab-a-free-jupyter-notebook-environment-that-runs-in-the-cloud-logo-shadow-tal-revivo.png"
+  },
+  {
+    "name": "Excel",
+    "icon": "https://img.icons8.com/color/96/microsoft-excel-2019.png"
+  },
+  {
+    "name": "MS Word",
+    "icon": "https://img.icons8.com/color/96/microsoft-word-2019--v2.png"
+  },
+  {
+    "name": "PowerPoint",
+    "icon": "https://img.icons8.com/color/96/microsoft-powerpoint-2019.png"
+  },
+  {
+    "name": "Tableau",
+    "icon": "https://img.icons8.com/color/96/tableau-software.png"
+  },
+  {
+    "name": "Cloud Computing",
+    "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-cloud-computing-technology-flaticons-lineal-color-flat-icons-2.png"
   }
 ]
